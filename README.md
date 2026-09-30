@@ -1,41 +1,19 @@
-<div align="center">
+# Hi 👋, I'm Mohammad Samer
 
-Hi, I'm Mohammad 👋
-Full-Stack Developer · React & Next.js
-Turning ideas into practical web applications — from interface to database.
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+### Full-Stack Web Developer
+
+- 💬 Ask me about **Next.js, React, Node.js, Prisma, Express.js, MongoDB, and Tailwind CSS**
+
+- 📫 How to reach me **mohammadev71@gmail.com**
+
+- 👨‍💻 All of my projects are available at **[https://mohammad-samer-v3.vercel.app/](https://mohammad-samer-v3.vercel.app/)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Mohammadev-71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mohammadev-71" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammad-samer-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-samer-dev" height="30" width="40" /></a>
 </p>
 
-Explore my projects · Featured project
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-About me
-I'm a full-stack developer based in the UAE. I build web applications with React, Next.js, and TypeScript, connecting responsive interfaces with authentication, application logic, and databases.
-I learn by building: taking a feature from an idea to a working experience, understanding how the pieces fit together, and improving it along the way.
-- Frontend focus: responsive layouts, interactive interfaces, and clear user flows.
-- Beyond the UI: server actions, data modeling, validation, and authentication.
-- Details I care about: useful feedback, smooth interactions, and Arabic/English experiences.
-My toolbox
-Area	Technologies
-Languages	TypeScript · JavaScript
-Frontend	React · Next.js · Tailwind CSS · shadcn/ui
-State & data	Zustand · TanStack Query · Axios
-Forms & validation	React Hook Form · Zod
-Backend & authentication	Node.js · Next.js Server Actions · Better Auth
-Database access	Prisma ORM
-Interaction & localization	DnD Kit · WebSocket · next-intl
-Tools	Git · GitHub · Vite
-
-How I approach development
-- Start with the user. Make the next action easy to understand.
-- Build the complete flow. Connect the interface, validation, and data.
-- Learn through practice. Build, investigate, refine, and repeat.
-<div align="center">
-
-Thoughtful interfaces. Practical features. Always learning.
-Thanks for stopping by — take a look around my repositories.
-</div>
